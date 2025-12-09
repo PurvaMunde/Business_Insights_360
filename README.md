@@ -5,6 +5,10 @@ Power BI dashboard project showing business insights with a demo video.
 **Business Insights 360** is a Power BI analytics project that provides a complete 360-degree view of organizational performance by integrating **Sales, Finance, Marketing, and Executive dashboards** into a single interactive solution.
 The project focuses on transforming raw business data into actionable insights to support **data-driven decision-making**.
 
+## 🎥 Demo Video
+▶️ Watch the full dashboard walkthrough on YouTube:  
+https://youtu.be/Jmcc3PKi0Po?si=Ec3h-QruGJCagO3M
+
 ## Dataset
 - Source: CSV business dataset (quarter-wise)
 - Includes sales, revenue, profit/loss, customer segments, delivery performance, regions, and product categories
